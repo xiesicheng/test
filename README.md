@@ -1,2 +1,15 @@
 # properties-maven-plugin
-多工程属性文件统一管理(创建,替换)Maven插件, 数据来源支持 文件和数据库两种方式
+properties-maven-plugin是一个maven插件，致力于提高开发效率，降低配置出错的概率。
+
+# Quick Start
+`
+<plugins>
+    <plugin>
+        <groupId>com.dplugin.maven.plugins</groupId>
+        <artifactId>properties-maven-plugin</artifactId>
+        <version>1.0.0</version>
+        <dependencies>...</dependencies>
+        <configuration>...</configuration>
+    </plugin>
+</plugins>
+`
