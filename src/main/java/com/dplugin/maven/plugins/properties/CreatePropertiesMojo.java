@@ -23,9 +23,8 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * 生成文件 mojo
+ * 生成文件 mojo 2016-07-23 23:02:12
  * @author nayuan
- * @time 2016-07-23 23:02:12
  * @version $Id$
  */
 @Mojo(name = "create", defaultPhase = LifecyclePhase.INITIALIZE, threadSafe = true)

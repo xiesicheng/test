@@ -4,9 +4,8 @@ import org.apache.maven.plugin.logging.Log;
 import org.apache.maven.plugin.logging.SystemStreamLog;
 
 /**
- * 日志简单实现类
+ * 日志简单实现类 2016-07-23 21:25:46
  * @author nayuan
- * @time 2016-07-23 21:25:46
  */
 public class SimpleLogger implements Logger {
 

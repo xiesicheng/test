@@ -19,9 +19,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * 帮助 mojo
+ * 帮助 mojo 2016-07-23 23:15:28
  * @author nayuan
- * @time 2016-07-23 23:15:28
  */
 @Mojo( name = "help", requiresProject = false, threadSafe = true )
 public class HelpPropertiesMojo extends AbstractMojo {

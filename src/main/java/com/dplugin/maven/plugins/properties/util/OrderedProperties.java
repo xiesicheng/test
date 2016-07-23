@@ -8,9 +8,8 @@ import java.util.Properties;
 import java.util.Set;
 
 /**
- * 有序properties
+ * 有序properties 2016-07-23 22:48:18
  * @author nayuan
- * @time 2016-07-23 22:48:18
  */
 public class OrderedProperties extends Properties {
 

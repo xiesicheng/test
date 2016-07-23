@@ -8,9 +8,8 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 /**
- * properties工具类
+ * properties工具类 2016-07-23 22:48:51
  * @author nayuan
- * @time 2016-07-23 22:48:51
  */
 public class PropertyUtils {
 

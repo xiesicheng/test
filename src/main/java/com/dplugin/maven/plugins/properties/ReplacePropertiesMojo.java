@@ -23,9 +23,8 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 /**
- * 替换文件 mojo
+ * 替换文件 mojo 2016-07-23 22:58:00
  * @author nayuan
- * @time 2016-07-23 22:58:00
  * @version $Id$
  */
 @Mojo(name = "replace", defaultPhase = LifecyclePhase.COMPILE, threadSafe = true)
@@ -91,10 +90,10 @@ public class ReplacePropertiesMojo extends AbstractPropertiesMojo {
 
     /**
      * 属性文件的替换方式
-     * @param pack
-     * @param file
-     * @return
-     * @throws MojoExecutionException
+     * @param pack 包
+     * @param file 文件
+     * @return 是否有替换
+     * @throws MojoExecutionException 失败
      */
     private boolean replaceProperties(String pack, String file) throws MojoExecutionException {
         BufferedReader reader = null;
@@ -146,10 +145,10 @@ public class ReplacePropertiesMojo extends AbstractPropertiesMojo {
 
     /**
      * 其他文件的替换方式
-     * @param pack
-     * @param file
-     * @return
-     * @throws MojoExecutionException
+     * @param pack 包
+     * @param file 文件
+     * @return 是否有替换
+     * @throws MojoExecutionException 失败
      */
     private boolean replaceOther(String pack, String file) throws MojoExecutionException {
         Pattern pattern = Pattern.compile("\\$\\{([^\\}]+)\\}");

@@ -1,9 +1,8 @@
 package com.dplugin.maven.plugins.properties.source;
 
 /**
- * 属性项
+ * 属性项 2016-07-23 22:44:01
  * @author nayuan
- * @time 2016-07-23 22:44:01
  */
 public class Entry {
 

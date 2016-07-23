@@ -12,9 +12,8 @@ import java.util.List;
 import java.util.Properties;
 
 /**
- * 数据库表操作类
+ * 数据库表操作类 2016-07-23 22:45:46
  * @author nayuan
- * @time 2016-07-23 22:45:46
  */
 public class JdbcTemplate {
 

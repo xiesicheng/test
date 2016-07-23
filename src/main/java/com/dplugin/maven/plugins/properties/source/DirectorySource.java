@@ -18,9 +18,8 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 /**
- * 文件 源
+ * 文件 源 2016-07-23 22:41:53
  * @author nayuan
- * @time 2016-07-23 22:41:53
  */
 public class DirectorySource implements Source {
 

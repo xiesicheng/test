@@ -1,9 +1,8 @@
 package com.dplugin.maven.plugins.properties.model;
 
 /**
- * 替换文件内容规则配置项
+ * 替换文件内容规则配置项 2016-07-23 21:31:40
  * @author nayuan
- * @time 2016-07-23 21:31:40
  */
 public class ReplaceRule {
 

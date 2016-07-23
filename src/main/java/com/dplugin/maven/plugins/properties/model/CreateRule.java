@@ -1,9 +1,8 @@
 package com.dplugin.maven.plugins.properties.model;
 
 /**
- * 生成文件规则类
+ * 生成文件规则类 2016-07-23 21:26:51
  * @author nayuan
- * @time 2016-07-23 21:26:51
  */
 public class CreateRule {
 

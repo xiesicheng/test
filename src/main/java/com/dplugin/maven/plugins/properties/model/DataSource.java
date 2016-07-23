@@ -1,9 +1,8 @@
 package com.dplugin.maven.plugins.properties.model;
 
 /**
- * 数据库资源配置项
+ * 数据库资源配置项 2016-07-23 21:28:26
  * @author nayuan
- * @time 2016-07-23 21:28:26
  */
 public class DataSource implements java.io.Serializable {
 

@@ -12,10 +12,9 @@ import org.apache.maven.project.MavenProject;
 import org.apache.maven.shared.utils.StringUtils;
 
 /**
- * 通用实现 mojo
+ * 通用实现 mojo 2016-07-23 22:49:57
  * @author nayuan
  * @version $Id$
- * @time 2016-07-23 22:49:57
  */
 public abstract class AbstractPropertiesMojo extends AbstractMojo{
 
