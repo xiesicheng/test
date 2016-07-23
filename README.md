@@ -12,5 +12,5 @@ properties-maven-plugin是一个maven插件，致力于提高开发效率，降�
         <configuration>...</configuration>
     </plugin>
     
-</plugins>
-`
+</plugins>`
+
