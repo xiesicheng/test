@@ -2,7 +2,8 @@
 properties-maven-plugin是一个maven插件，致力于提高开发效率，降低配置出错的概率。
 
 # Quick Start
-```<plugins>
+```
+<plugins>
     <plugin>
         <groupId>com.dplugin.maven.plugins</groupId>
         <artifactId>properties-maven-plugin</artifactId>
@@ -10,5 +11,6 @@ properties-maven-plugin是一个maven插件，致力于提高开发效率，降�
         <dependencies>...</dependencies>
         <configuration>...</configuration>
     </plugin>
-</plugins>```
+</plugins>
+```
 
