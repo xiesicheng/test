@@ -29,6 +29,15 @@
 		</contributor>
 	</contributors>
 
+	<developers>
+		<developer>
+			<name>nayuan</name>
+			<email>nayuan@vip.qq.com</email>
+			<organization>dplugin</organization>
+			<organizationUrl>http://www.dplugin.com</organizationUrl>
+		</developer>
+	</developers>
+
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
