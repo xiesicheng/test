@@ -14,6 +14,12 @@ properties-maven-plugin是一个maven插件，致力于提高开发效率，降�
 </plugins>
 ```
 
+## maven命令
+```shell
+mvn properties:create
+mvn properties:replace
+```
+
 ## dependencies
 如果要使用数据库，需要指定驱动依赖，如下
 mysql:
