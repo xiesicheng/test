@@ -44,7 +44,7 @@
 		<jdk.version>1.7</jdk.version>
 
 		<maven.compile.encoding>UTF-8</maven.compile.encoding>
-		<maven.plugin.version>3.0</maven.plugin.version>
+		<maven.plugin.version>3.9.2</maven.plugin.version>
 	</properties>
 
 	<dependencies>
